@@ -1,16 +1,18 @@
-## Hi there 👋
+# Joaquin Garcia-Larrieu
 
-<!--
-**wakiwaki99/wakiwaki99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems, with a human pulse.**
 
-Here are some ideas to get you started:
+I help teams put AI to work in the tools they already use: AI agents, automations, CRM and ticketing setup, and the training that makes it stick. Customer-facing at heart, bilingual in English and Spanish, based in Miami and working remotely.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I build
+- AI agent workflows with Claude, Codex, and Gemini, connected to real tools through MCP
+- AI support agents (Intercom Fin): routing, knowledge base, guardrails, and escalation to humans
+- Automations for email, reporting, and handoffs, with a clear record of what ran and who owns it
+- Team enablement: playbooks and training so people can run it without me
+
+### How I work
+Start with the real task. Keep one source of truth. Make sure a person reviews what matters, and measure what actually changed.
+
+### Find me
+- Website: [joaquin.systems](https://joaquin.systems)
+- LinkedIn: [linkedin.com/in/jglmiami](https://www.linkedin.com/in/jglmiami/)
